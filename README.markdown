@@ -1,3 +1,5 @@
+####ちょこちょこ変えてるんで下のREADMEは参考にならないかもしれません:-)
+
 # Vagrant Chef for CakePHP
 
 Vagrant Chef creates a Vagrant installation for CakePHP using Chef with the following features:
