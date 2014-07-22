@@ -1,5 +1,8 @@
 ####ちょこちょこ変えてるんで下のREADMEは参考にならないかもしれません:-)
 
+# Vagrant up する前に
+  `$ mkdir dev-app`を実行してください。でないとup出来ません。
+
 # Vagrant Chef for CakePHP
 
 Vagrant Chef creates a Vagrant installation for CakePHP using Chef with the following features:
